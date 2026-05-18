@@ -1,4 +1,7 @@
 vivado/generated/*
+vivado/.Xil/*
+vivado/obj/*
+vivado/clockInfo.txt
 
 ### Project Specific stuff
 test_run_dir/*
